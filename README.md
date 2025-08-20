@@ -1,5 +1,5 @@
 # Escola-Django
-Sistem backend de matrículas de uma escola a partir do framework Django
+Sistema backend de matrículas de uma escola a partir do framework Django
 
 # 🚀 Como rodar este projeto
 
